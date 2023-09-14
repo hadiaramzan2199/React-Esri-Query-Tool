@@ -1,11 +1,10 @@
 import React from 'react';
-// import MapComponent from './map';
-import EditorWidgetComponent from './editor';
+import MapComponent from './map';
 const App = () => {
   return (
     <div>
       {/* <h1>Esri Map React App</h1> */}
-      <EditorWidgetComponent />
+      <MapComponent />
     </div>
   );
 };
