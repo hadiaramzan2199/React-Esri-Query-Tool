@@ -22,7 +22,7 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```javascript
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/hadiaramzan2199/React-Esri-Query-Tool.git
 ```
 
 2. Navigate to the project directory:
